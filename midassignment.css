@@ -30,11 +30,10 @@ body{
 }
 
 .nav-item{
-  ont-style: italic;
+    font-style: italic;
     font-weight: bold;
     font-size: large;
     text-decoration: underline;
-    border-radius: 100px;
     text-align: center;
 }
 
